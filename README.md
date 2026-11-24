@@ -21,8 +21,8 @@ Lately I also build with **LLMs and AI agents**.
 |---|---|---|---|
 | `BLD001` | [**BuildAegis**](https://github.com/princepsr/BuildAegis) | Scans Maven and Gradle projects for vulnerable dependencies and shows results in a web UI | Java, Spring Boot |
 | `BLD002` | [**SmartKhata**](https://github.com/princepsr/SmartKhata) | Offline-first point-of-sale for Indian kirana shops, with a pharmacy mode | Electron, TypeScript |
-| `BLD003` | [**Backend-Interview-Handbook**](https://github.com/princepsr/Backend-Interview-Handbook) | Depth-first reference for Java backend interviews | JavaScript, Handlebars |
-| `BLD004` | [**Sudo Explain**](https://github.com/princepsr/SudoExplain) | My blog: a hand-built site with zero dependencies, deployed on every push | Node.js |
+| `BLD003` | [**Sudo Explain**](https://github.com/princepsr/SudoExplain) | My blog: a hand-built site with zero dependencies, deployed on every push | Node.js |
+| `BLD004` | [**Backend-Interview-Handbook**](https://github.com/princepsr/Backend-Interview-Handbook) | Depth-first reference for Java backend interviews | JavaScript, Handlebars |
 
 ## `SHEET 03` · Selected writing
 
